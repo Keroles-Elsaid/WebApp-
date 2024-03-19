@@ -19,3 +19,13 @@ This project was built using the following:
 - [Bootstrap](https://getbootstrap.com)
 - [MVC](https://learn.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started)
 - [Razor](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-7.0)
+
+- =================
+- [home Page]
+- ![237820771-de8d23cc-e7e9-4b8b-ac0f-e0b3035d1885](https://github.com/Keroles-Elsaid/WebApp-/assets/96342353/7862351c-0dde-47b1-9b4a-ad0303d20168)
+
+- [create adds.]
+- ![237820904-57930b4d-2405-4c5d-b49f-1ba952ff217e](https://github.com/Keroles-Elsaid/WebApp-/assets/96342353/8d9105f3-250a-4fba-97d6-9b83a7607b62)
+
+- [login page ]
+- ![237820697-aa272fef-60e2-47e7-a728-5ea0107ce98c](https://github.com/Keroles-Elsaid/WebApp-/assets/96342353/e74a742d-c343-4986-9353-15dcb48c5c06) 
