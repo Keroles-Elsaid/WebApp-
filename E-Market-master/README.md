@@ -10,7 +10,7 @@ It is worth mentioning that the application has a section for "My ads" in which 
 The application also has a category section, which allows you to select which category will be the advertisement you want to publish, highlighting that we can also perform CRUD operations in it.
 
 This application was made by implementing the Code First approach with EntityFramework in ASP.Net Core with MVC and the Onion architecture with repositories and generic services.
-=============
+=========
 This project was built using the following:
 - [ASP.NET Core](https://learn.microsoft.com/es-es/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-7.0)
 - [EntityFramework](https://learn.microsoft.com/en-us/ef/)
@@ -20,11 +20,11 @@ This project was built using the following:
 - [MVC](https://learn.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started)
 - [Razor](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-7.0)
 
-- =================
-- [home Page]
+                                                  ==================================
+- [Home Page]
 - ![237820771-de8d23cc-e7e9-4b8b-ac0f-e0b3035d1885](https://github.com/Keroles-Elsaid/WebApp-/assets/96342353/7862351c-0dde-47b1-9b4a-ad0303d20168)
 
-- [create adds.]
+- [create Ads.]
 - ![237820904-57930b4d-2405-4c5d-b49f-1ba952ff217e](https://github.com/Keroles-Elsaid/WebApp-/assets/96342353/8d9105f3-250a-4fba-97d6-9b83a7607b62)
 
 - [login page ]
